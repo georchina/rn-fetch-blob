@@ -10,7 +10,7 @@
     "base-64": "0.1.0",
     "glob": "7.0.6",
     "lodash": "4.17.15",
-    "react-native": "^0.64.0"
+    "react-native": "0.70.0"
   },
   "keywords": [
     "react-native",
